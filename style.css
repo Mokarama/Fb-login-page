@@ -1,0 +1,46 @@
+body{
+    background-color:whitesmoke
+    margin-left: 30px;
+    margin-top: 80px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+#section{
+    background-color: white;
+    margin-left: 460px;
+    margin-right: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 3px solid whitesmoke;
+    border-radius:20px;
+    box-shadow:5px 5px 23px ;
+}
+
+#a{
+    width: 300px;
+    height: 25px;
+}
+
+#b{
+    width: 300px;
+    height: 25px;
+}
+
+#button{
+    width: 300px;
+    height: 30px;
+    color: white;
+    text-size:25px;
+    background-color: blue;
+    border: 2px solid;
+    border-radius: 5px;
+}
+#button-id{
+    width:150px ;
+    height: 30px;
+    background-color: rgb(101, 214, 101);
+    border:2px solid whitesmoke;
+    border-radius: 5px ;
+    margin-top:10px ;
+}
